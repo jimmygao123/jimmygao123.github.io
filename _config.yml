@@ -1,0 +1,8 @@
+title: 高小冻的小窝
+description: 从不依靠，从不寻找，非常沉默，非常骄傲！
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
